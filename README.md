@@ -61,9 +61,3 @@ This project is a team effort, and every line of code has been crafted to maximi
 ## 📄 License
 
 WipeUUr is licensed under the Apache License Version 2.0. See the [LICENSE](https://www.apache.org/licenses/LICENSE-2.0.html) file for more details.
-
-## 📝 Acknowledgements
-
-A big thank you to [Collaborator's Name or Username] for his invaluable collaboration on this project. Without his expertise and passion for system optimization, WipeUUr would never have come to life.
-
-Thanks also to all contributors and users for their support and feedback, which help us continuously improve WipeUUr.
