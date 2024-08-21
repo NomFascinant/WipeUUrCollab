@@ -33,7 +33,7 @@ We believe that everyone deserves a high-performance PC without technical hassle
 
 3. Install the required dependencies (in Features//Config.json):
 
-   ```bash
+   ```json
    {
     "Requirements": "True" // (Put "False" after installation)
    }
