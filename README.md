@@ -13,7 +13,7 @@ WipeUUr allows you to:
 
 ## 💡 Why WipeUUr?
 
-This project is the result of a collaboration between **WipeUUr** and **NomFascinant**, an expert in system optimization. Together, we identified the most common needs of users in computer maintenance and created WipeUUr to address these needs in an intuitive and efficient manner.
+This project is the result of a collaboration between **Luunarr** and **NomFascinant**, an expert in system optimization. Together, we identified the most common needs of users in computer maintenance and created WipeUUr to address these needs in an intuitive and efficient manner.
 
 We believe that everyone deserves a high-performance PC without technical hassles, and we have worked hard to simplify the user experience while offering powerful features.
 
@@ -53,7 +53,7 @@ Once installed, WipeUUr allows you to:
 
 ## 🧑‍💻 Contributors
 
-- **[WipeUUr](https://github.com/Luunarr/WipeUUr)** - Lead Developer
+- **[Luunarr](https://github.com/Luunarr/WipeUUr)** - Lead Developer
 - **[NomFascinant](https://github.com/NomFascinant)** - Co-developer and System Optimization Expert
 
 This project is a team effort, and every line of code has been crafted to maximize performance and ease of use.
