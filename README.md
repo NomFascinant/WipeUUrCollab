@@ -1,6 +1,6 @@
 # WipeUUr - Optimize and Clean Your PC
 
-Welcome to the official repository of **WipeUUr**, a powerful program designed to clean, optimize, and maintain your PC in top condition. Developed in collaboration with the talented [Collaborator's Name or Username], this project was born from the desire to offer users a simple yet effective tool to take care of their system.
+Welcome to the official repository of **WipeUUr**, a powerful program designed to clean, optimize, and maintain your PC in top condition. Developed in collaboration with the talented NomFascinant, this project was born from the desire to offer users a simple yet effective tool to take care of their system.
 
 ## 🛠️ Features
 
@@ -13,7 +13,7 @@ WipeUUr allows you to:
 
 ## 💡 Why WipeUUr?
 
-This project is the result of a collaboration between [Your Name or Username] and [Collaborator's Name or Username], an expert in system optimization. Together, we identified the most common needs of users in computer maintenance and created WipeUUr to address these needs in an intuitive and efficient manner.
+This project is the result of a collaboration between **WipeUUr** and **NomFascinant**, an expert in system optimization. Together, we identified the most common needs of users in computer maintenance and created WipeUUr to address these needs in an intuitive and efficient manner.
 
 We believe that everyone deserves a high-performance PC without technical hassles, and we have worked hard to simplify the user experience while offering powerful features.
 
@@ -53,20 +53,17 @@ Once installed, WipeUUr allows you to:
 
 ## 🧑‍💻 Contributors
 
-- **[Your Name or Username]** - Lead Developer
-- **[Collaborator's Name or Username]** - Co-developer and System Optimization Expert
+- **[WipeUUr](https://github.com/Luunarr/WipeUUr)** - Lead Developer
+- **[NomFascinant](https://github.com/NomFascinant)** - Co-developer and System Optimization Expert
 
 This project is a team effort, and every line of code has been crafted to maximize performance and ease of use.
 
 ## 📄 License
 
-WipeUUr is licensed under the [License you choose]. See the [LICENSE](LICENSE) file for more details.
+WipeUUr is licensed under the Apache License Version 2.0. See the [LICENSE](https://www.apache.org/licenses/LICENSE-2.0.html) file for more details.
 
 ## 📝 Acknowledgements
 
 A big thank you to [Collaborator's Name or Username] for his invaluable collaboration on this project. Without his expertise and passion for system optimization, WipeUUr would never have come to life.
 
 Thanks also to all contributors and users for their support and feedback, which help us continuously improve WipeUUr.
-```
-
-This version should be ready to use for your README file. Replace placeholders like `[Your Name or Username]` and `[Collaborator's Name or Username]` with the actual names and details pertinent to your project.
