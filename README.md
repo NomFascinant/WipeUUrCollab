@@ -31,11 +31,11 @@ We believe that everyone deserves a high-performance PC without technical hassle
    cd WipeUUr
    ```
 
-3. Install the required dependencies (in Features//Config.json):
+3. Install the required dependencies (Put "False" after installation, Path: Features\Config.json):
 
    ```json
    {
-    "Requirements": "True" // (Put "False" after installation)
+    "Requirements": "True"
    }
    ```
 
