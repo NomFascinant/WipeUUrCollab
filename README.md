@@ -31,10 +31,12 @@ We believe that everyone deserves a high-performance PC without technical hassle
    cd WipeUUr
    ```
 
-3. Install the required dependencies:
+3. Install the required dependencies (in Features//Config.json):
 
    ```bash
-   pip install -r requirements.txt
+   {
+    "Requirements": "True" // (Put "False" after installation)
+   }
    ```
 
 4. Run the program:
