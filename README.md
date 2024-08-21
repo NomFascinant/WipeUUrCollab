@@ -1,6 +1,3 @@
-Je vois qu'il y a une petite erreur de mise en forme dans la section Installation et que des balises de code incorrectes ont été ajoutées. Voici la version corrigée et complète du README en texte brut :
-
-```
 # WipeUUr - Optimize and Clean Your PC
 
 Welcome to the official repository of **WipeUUr**, a powerful program designed to clean, optimize, and maintain your PC in top condition. Developed in collaboration with the talented [Collaborator's Name or Username], this project was born from the desire to offer users a simple yet effective tool to take care of their system.
